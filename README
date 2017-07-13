@@ -1,0 +1,12 @@
+Dependences
+    1. numpy, scipy
+        sudo apt-get install python-dev, python-numpy, python-scipy
+    2. skimage
+        sudo apt-get install python-skimage  or  pip install scikit-image
+    3. sklearn
+        sudo apt-get install python-sklearn  or  pip install scikit-learn
+    4. opencv
+        sudo apt-get install python-opencv
+    5. tensorflow
+        url: https://www.tensorflow.org/install/
+    
